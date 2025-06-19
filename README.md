@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I’m Yash — a Computer Science student from Delhi.<br>I’ve been exploring code since I was a kid, starting with Scratch and Kodu.<br>Over time, programming became more than a skill — it’s how I think, create, and express.<br>I see it as quiet craftsmanship.<br>Always open to good ideas and better conversations.</h2>
+<h3 align="left">Hi 👋, I’m Yash — a Computer Science student from Delhi.<br>I’ve been exploring code since I was a kid, starting with Scratch and Kodu.<br>Over time, programming became more than a skill — it’s how I think, create, and express.<br>I see it as quiet craftsmanship.<br>Always open to good ideas and better conversations.</h3>
 
 ###
 
