@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋 I'm Yash, a Computer Science major from Delhi, India.<br><br>I've been in love with programming since the 5th grade, when I first started building games using Scratch and Kodu Game Lab. Over the years, that curiosity evolved into a deep passion — not just for coding, but for the creative potential behind it. I see programming as an art form — something far beyond just a path to money or jobs ( i love jobs too btw XD)<br><br>I love building things, experimenting, and exploring the beauty of code.<br>If you have ideas, recommendations, or just want to talk tech, feel free to drop me a DM or email — I'd love to connect :)</h2>
+<h2 align="left">Hi 👋, I’m Yash — a Computer Science student from Delhi.<br>I’ve been exploring code since I was a kid, starting with Scratch and Kodu.<br>Over time, programming became more than a skill — it’s how I think, create, and express.<br>I see it as quiet craftsmanship.<br>Always open to good ideas and better conversations.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpandey0031&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandey0031&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpandey0031&" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/7e/63/05/7e63055da75a41c9ccdd4f396a356b51.jpg"  />
 
 ###
 
@@ -19,11 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
@@ -42,10 +52,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/7e/63/05/7e63055da75a41c9ccdd4f396a356b51.jpg"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yashpandey0031/yashpandey0031/output/snake.svg" alt="Snake animation" />
 
 ###
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yashpandey0031/count.svg?"  />
+</div>
 
 ###
