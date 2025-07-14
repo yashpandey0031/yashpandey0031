@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yashpandey0031/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashpandey0031.yashpandey0031&"  />
 </div>
 
 ###
