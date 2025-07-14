@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I’m Yash — a Computer Science student from Delhi.<br>I’ve been exploring code since I was a kid, starting with Scratch and Kodu.<br>Over time, programming became more than a skill — it’s how I think, create, and express.<br>I see it as quiet craftsmanship.<br>Always open to good ideas and better conversations.</h3>
+<h3 align="center">Hi 👋, I’m Yash — a Computer Science student from Delhi.<br>I’ve been exploring tech since I was a kid, starting with the beloved scratch and the best game engine of all time , Kodu Game Lab.<br>Over time, programming became more than a skill — it’s how I think, create, and express.<br>I think its art and creative <br>Always open to good ideas and better conversations.</h3>
 
 ###
 
@@ -8,13 +8,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpandey0031&" height="150" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/7e/63/05/7e63055da75a41c9ccdd4f396a356b51.jpg"  />
 
-###
 
-<div align="left">
+
+
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@yashpandey0031" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
