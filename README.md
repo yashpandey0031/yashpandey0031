@@ -9,7 +9,6 @@ I like doing photography  and listening to music in my free time :)
 ### AI / ML / Data Science
 - **[chatWithPdf](https://github.com/yashpandey0031/chatWithPdf)** - Chat interface to interact with and query PDF documents.
 - **[coral-reefs-nlp](https://github.com/yashpandey0031/coral-reefs-nlp)** - Domain-specific NLP chatbot for coral reef education and conservation.
-- **[coral_reef_Data](https://github.com/yashpandey0031/coral_reef_Data)** - Data repository related to coral reef analysis/workflows.
 - **[fall_detection_yolov8](https://github.com/yashpandey0031/fall_detection_yolov8)** - Fall detection system built using YOLOv8 computer vision.
 - **[GNSS-CLK](https://github.com/yashpandey0031/GNSS-CLK)** - GRU/LSTM-based GNSS satellite clock bias prediction system.
 - **[anime-recommendation-system-using-tfIdf-and-cosine-similarity](https://github.com/yashpandey0031/anime-recommendation-system-using-tfIdf-and-cosine-similarity)** - Anime recommendation system using TF-IDF and cosine similarity.
@@ -17,7 +16,6 @@ I like doing photography  and listening to music in my free time :)
 
 ### Backend / Full-Stack / Web Apps / Platforms
 - **[Kontrib](https://github.com/yashpandey0031/Kontrib)** - AI-powered tool comparing your GitHub commit style with top OSS contributors.
-- **[chat_api](https://github.com/yashpandey0031/chat_api)** - Backend API project for chat-based applications.
 - **[url_shortner](https://github.com/yashpandey0031/url_shortner)** - URL shortening web service.
 - **[notepad_api](https://github.com/yashpandey0031/notepad_api)** - FastAPI + SQLite note-taking CRUD API with history tracking.
 - **[capstone_project_demo](https://github.com/yashpandey0031/capstone_project_demo)** - Demo repository for a capstone project.
