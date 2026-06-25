@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/vwebp/1200x/92/bd/88/92bd88850bd97afa8441fc77bda3311e.webp" alt="Banner" />
-</p>
-
 ## 👋 Hey, I’m **Yash Pandey**
 
 A pre-final year CS student who loves building useful stuff with code.  
