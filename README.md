@@ -48,6 +48,5 @@ I like taking pictures and listening to music in my free time :)
 
 <sub>█</sub>
 <!--
-If you're reading this, thanks for being curious.
-Feel free to say hi :)
+oh a curious one , Feel free to say hi :)
 -->
