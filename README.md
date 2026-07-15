@@ -28,12 +28,14 @@ I like taking pictures and listening to music in my free time :)
 
 ### Backend / Full-Stack / Web Apps / Platforms
 - **[Kontrib](https://github.com/yashpandey0031/Kontrib)** - AI-powered tool comparing your GitHub commit style with top OSS contributors.
-- **[url_shortner](https://github.com/yashpandey0031/url_shortner)** - URL shortening web service.
+- **[LitePad](https://github.com/yashpandey0031/litepad)** - A bloat-free, lightning-fast, zero-telemetry notepad for Windows.
 - **[notepad_api](https://github.com/yashpandey0031/notepad_api)** - FastAPI + SQLite note-taking CRUD API with history tracking.
 - **[capstone_project_demo](https://github.com/yashpandey0031/capstone_project_demo)** - Demo repository for a capstone project.
 - **[Financial_dashboard](https://github.com/yashpandey0031/Financial_dashboard)** - Dashboard app for financial data visualization.
 - **[BetOnMe](https://github.com/yashpandey0031/BetOnMe)** - Decentralized reputation/credibility layer with staking mechanics.
 - **[Bolibazaar](https://github.com/yashpandey0031/Bolibazaar)** - MERN-based real-time auction platform.
+- **[url_shortner](https://github.com/yashpandey0031/url_shortner)** - URL shortening web service.
+
 
 ### Developer Tools / Automation / Packages
 - **[AI-Content-Automation](https://github.com/yashpandey0031/AI-Content-Automation)** - Automation project for AI-assisted content workflows.
