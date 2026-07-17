@@ -23,7 +23,6 @@ I like taking pictures and listening to music in my free time :)
 - **[fall_detection_yolov8](https://github.com/yashpandey0031/fall_detection_yolov8)** - Fall detection system built using YOLOv8 computer vision.
 - **[GNSS-CLK](https://github.com/yashpandey0031/GNSS-CLK)** - GRU/LSTM-based GNSS satellite clock bias prediction system.
 - **[anime-recommendation-system-using-tfIdf-and-cosine-similarity](https://github.com/yashpandey0031/anime-recommendation-system-using-tfIdf-and-cosine-similarity)** - Anime recommendation system using TF-IDF and cosine similarity.
-- **[chatWithPdf](https://github.com/yashpandey0031/chatWithPdf)** - Chat interface to interact with and query PDF documents.
 
 ### Backend / Full-Stack / Web Apps / Platforms
 - **[Kontrib](https://github.com/yashpandey0031/Kontrib)** - AI-powered tool comparing your GitHub commit style with top OSS contributors.
@@ -33,20 +32,17 @@ I like taking pictures and listening to music in my free time :)
 - **[Financial_dashboard](https://github.com/yashpandey0031/Financial_dashboard)** - Dashboard app for financial data visualization.
 - **[BetOnMe](https://github.com/yashpandey0031/BetOnMe)** - Decentralized reputation/credibility layer with staking mechanics.
 - **[Bolibazaar](https://github.com/yashpandey0031/Bolibazaar)** - MERN-based real-time auction platform.
-- **[url_shortner](https://github.com/yashpandey0031/url_shortner)** - URL shortening web service.
 
-
-### Developer Tools / Automation / Packages
-- **[AI-Content-Automation](https://github.com/yashpandey0031/AI-Content-Automation)** - Automation project for AI-assisted content workflows.
-- **[1st_NPM_package](https://github.com/yashpandey0031/1st_NPM_package)** - First published/experimental npm package.
-- **[Discord-bot](https://github.com/yashpandey0031/Discord-bot)** - Discord bot for automation and server interactions.
-
-### Portfolio / Creative Coding / Experiments
-- **[yashpandey0031](https://github.com/yashpandey0031/yashpandey0031)** - GitHub profile repository for personal intro and highlights.
+### Portfolio templates / Creative Coding / Experiments
 - **[win8-portfolio](https://github.com/yashpandey0031/win8-portfolio)** - Windows 8-inspired animated portfolio template.
 - **[image-to-music-convertor-using-python](https://github.com/yashpandey0031/image-to-music-convertor-using-python)** - Converts image pixel colors into music/sound.
 - **[mathematical-equations](https://github.com/yashpandey0031/mathematical-equations)** - Visualization-focused project exploring mathematical beauty.
 
+### Minor Projects / learning 
+- **[AI-Content-Automation](https://github.com/yashpandey0031/AI-Content-Automation)** - Automation project for AI-assisted content workflows.
+- **[1st_NPM_package](https://github.com/yashpandey0031/1st_NPM_package)** - First published/experimental npm package.
+- **[url_shortner](https://github.com/yashpandey0031/url_shortner)** - URL shortening web service.
+- **[chatWithPdf](https://github.com/yashpandey0031/chatWithPdf)** - Chat interface to interact with and query PDF documents.
 <sub>█</sub>
 <!--
 oh a curious one , Feel free to say hi :)
