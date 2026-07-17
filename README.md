@@ -23,7 +23,6 @@ I like taking pictures and listening to music in my free time :)
 - **[fall_detection_yolov8](https://github.com/yashpandey0031/fall_detection_yolov8)** - Fall detection system built using YOLOv8 computer vision.
 - **[GNSS-CLK](https://github.com/yashpandey0031/GNSS-CLK)** - GRU/LSTM-based GNSS satellite clock bias prediction system.
 - **[anime-recommendation-system-using-tfIdf-and-cosine-similarity](https://github.com/yashpandey0031/anime-recommendation-system-using-tfIdf-and-cosine-similarity)** - Anime recommendation system using TF-IDF and cosine similarity.
-- **[History-of-all-flight-crash-map](https://github.com/yashpandey0031/History-of-all-flight-crash-map)** - Streamlit app to visualize historical flight crash data.
 - **[chatWithPdf](https://github.com/yashpandey0031/chatWithPdf)** - Chat interface to interact with and query PDF documents.
 
 ### Backend / Full-Stack / Web Apps / Platforms
